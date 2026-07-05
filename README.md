@@ -4,7 +4,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](#)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen?logo=googlechrome)](https://gavi-tharaka.github.io/singlish-to-sinhala-converter/)
 
-> **🔗 [Click Here to Try the Live Demo](https://gavi-tharaka.github.io/singlish-to-sinhala-converter/)**
 
 A lightweight, plug-and-play Vanilla JavaScript utility that seamlessly converts Singlish phonetics into Sinhala Unicode in real-time. It automatically attaches to any text input or textarea on your website, requiring absolutely no extra configuration.
 
@@ -15,6 +14,7 @@ A lightweight, plug-and-play Vanilla JavaScript utility that seamlessly converts
 - **Smart Toggle:** Easily switch between Sinhala and English typing modes using the `Ctrl + Space` keyboard shortcut.
 - **Framework Friendly:** Emits standard native `input` events so state managers in React/Vue/Angular can catch the typing changes seamlessly.
 - **Lightweight:** Highly optimized and fast execution without lagging the browser.
+  > **🔗 [Click Here to Try the Live Demo](https://gavi-tharaka.github.io/singlish-to-sinhala-converter/)**
 
 ---
 
