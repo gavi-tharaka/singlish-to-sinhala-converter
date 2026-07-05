@@ -13,4 +13,5 @@ A lightweight, zero-dependency, global JavaScript utility that automatically con
 Simply clone this repository or download `singlish.js`, then include it at the bottom of your HTML document before the closing `</body>` tag:
 
 ```html
-<script src="path/to/singlish.js"></script>```
+<script src="path/to/singlish.js"></script>
+```
