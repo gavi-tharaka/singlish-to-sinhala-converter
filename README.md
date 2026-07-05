@@ -14,7 +14,8 @@ A lightweight, plug-and-play Vanilla JavaScript utility that seamlessly converts
 - **Smart Toggle:** Easily switch between Sinhala and English typing modes using the `Ctrl + Space` keyboard shortcut.
 - **Framework Friendly:** Emits standard native `input` events so state managers in React/Vue/Angular can catch the typing changes seamlessly.
 - **Lightweight:** Highly optimized and fast execution without lagging the browser.
-  > **🔗 [Click Here to Try the Live Demo](https://gavi-tharaka.github.io/singlish-to-sinhala-converter/)**
+
+> **🔗 [Click Here to Try the Live Demo](https://gavi-tharaka.github.io/singlish-to-sinhala-converter/)**
 
 ---
 
