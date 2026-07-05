@@ -1,4 +1,4 @@
-# 🇱🇰 Singlish to Sinhala Unicode Converter
+# Singlish to Sinhala Unicode Converter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](#)
@@ -24,7 +24,7 @@ You don't need to download any files. Just copy and paste the following `<script
 
 ```html
 <!-- Add this before closing </body> tag -->
-<script src="[https://cdn.jsdelivr.net/gh/gavi-tharaka/singlish-to-sinhala-converter@main/singlish.js](https://cdn.jsdelivr.net/gh/gavi-tharaka/singlish-to-sinhala-converter@main/singlish.js)"></script>
+<script src="https://cdn.jsdelivr.net/gh/gavi-tharaka/singlish-to-sinhala-converter@main/singlish.js"></script>
 ```
 
 ### Method 2: Local Hosting
@@ -80,3 +80,20 @@ document.addEventListener('singlishModeChange', function(event) {
     }
 });
 ```
+
+## 📝 Phonetic Cheat Sheet (Basic)
+Here are some standard combinations used in this converter:
+
+- a = අ | aa / A = ආ / ඇ
+- i = ඉ | ii = ඊ
+- u = උ | uu = ඌ
+- k = ක් | ka = ක
+- g = ග් | ga = ග
+- c / ch = ච් | cha = ච
+- t = ට් | th = ත්
+- d = ඩ් | dh = ද්
+
+
+## 📄 License
+This project is open-source and available under the MIT License. Feel free to use it, modify it, and contribute!
+Developed by [Gavindu Tharaka](https://github.com/gavi-tharaka).
